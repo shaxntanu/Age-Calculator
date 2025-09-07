@@ -9,6 +9,7 @@ int main(){
     printf("\nEnter current year: ");
     scanf("%d", &cy);
     printf("\nYour current age is: %d y.o.", cy - by);
-    printf("\nThankyou for using the 'Age Calculator'!");
+    printf("\nThank You for using the 'Age Calculator'!\nMade by Shantanu");
     return 0;
+
 }
